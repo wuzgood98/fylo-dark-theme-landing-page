@@ -90,7 +90,7 @@ a.logo img {
   text-underline-offset: 4px;
 }
 
-.navigation ul.blur {
+.navigation .blur {
   position: fixed;
   top: 0;
   right: 0;
@@ -124,7 +124,7 @@ a.logo img {
   display: flex;
 }
 
-nav.menu_open ul.blur {
+nav.menu_open .blur {
   opacity: 1;
   visibility: visible;
 }
